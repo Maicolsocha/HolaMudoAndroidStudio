@@ -2,9 +2,6 @@ HolaMudoAndroidStudio
 
 Una aplicación "Hola Mundo" minimalista para Android, escrita en Kotlin y basada en Jetpack Compose.
 
-Capturas de pantalla
-
-(Añade tu propia captura en la carpeta docs/ o elimina esta sección)
 
 Características
 
